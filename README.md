@@ -3,7 +3,7 @@
 ---
 ### About Me:
 I am a hobby-programmer from Germany.
-On GitHub since: 01.07.2023
+On GitHub since: 30.06.2023
 
 ---
 ### Languages and Tools:
